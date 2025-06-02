@@ -1,6 +1,6 @@
 ## High Speed Prototyping Printer
-author: ryan d
+Author: ryan d
 
-description: A high speed, small form factor, crossed gantry 3d printer
+Description: A high speed, small form factor, crossed gantry 3d printer
 
-created: 6-2-2025
+Created: 6-2-2025
