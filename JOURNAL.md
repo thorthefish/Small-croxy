@@ -10,4 +10,5 @@ Created: 6-2-2025
 7 hours
 
 A full day of CAD. Got the design mostly finalized, just need to get final electronics list and bed then I can submit.
+![image](https://github.com/user-attachments/assets/67dd3ba9-9855-4d6f-ade2-015616e98534)
 
