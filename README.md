@@ -35,6 +35,7 @@ Also I just wanted a  fun first printer project.
 |Lead Screw 8 mm lead 200mm	| $6.00	|https://www.aliexpress.us/item/3256803126209223.html?aff_fcid=876c1b6831b34ef086b03f7f31695c39-1748987470418-07548-_DEBYMsL&tt=CPS_NORMAL&aff_fsk=_DEBYMsL&aff_platform=shareComponent-detail&sk=_DEBYMsL&aff_trace_key=876c1b6831b34ef086b03f7f31695c39-1748987470418-07548-_DEBYMsL&terminal_id=ffcf64e248684970b8fdbe380ac19e19&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt|
 |Linear Bearings (igus design)	| $8.00	|https://www.aliexpress.us/item/3256806998378536.html?pdp_npi=4%40dis%21USD%21US%20%243.70%21US%20%243.50%21%21%2126.52%2125.09%21%402103209b17489885608175906e642d%2112000039733031325%21sh%21US%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2008152185346.1005007184693288&gatewayAdapt=glo2usa|
 |Lead screw to stepper addapter|	free	| 3dp |
+|4pcs 2020 extrusion 200mm | $13 | https://www.amazon.com/Tsnamay-Aluminum-Extrusion-European-Standard/dp/B0C432TBNK?crid=3PDIAOY5MOI22&dib=eyJ2IjoiMSJ9.Qs924TBPKle0qbPLfl-tnYpWGuRs93vIjuHBda8nKF8fwg0okTLBHBTaHf8v5MfW4Tz1eJotxfSdZ4yQU3qm8LEGMHexsCshDZaDSGbdzKUI4volXeSC1bXSawbXBd1A3f4RutvV5shoteLjX4S139XQHyJU511xMUH470dtIi43CQkbJMyTFoG8pNNCdNK5ZMqQwQJ3jz9D8tkI0OMmFCHwkkRzB3SVdzdGfogiNfs.xDkkA_oaTjtbeNeLbWxZ_8CYpJVqyGttISagDm06Tco&dib_tag=se&keywords=2020%2Baluminum%2Bextrusion%2B200mm&qid=1749074474&sprefix=2020%2Baluminum%2Bextrusion%2B200mm%2Caps%2C143&sr=8-5&th=1|
 ||||	
 |Hardware| | |	
 ||||
