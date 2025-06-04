@@ -10,7 +10,9 @@ Also I just wanted a  fun first printer project.
 
 # CAD
 
-file:///home/phish/Pictures/Screenshots/Screenshot_20250604_130735.png
+![image](https://github.com/user-attachments/assets/201bc916-6a51-45df-82e9-28e341c0a06e)
+
+
 
 
 
