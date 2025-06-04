@@ -12,6 +12,13 @@ Also I just wanted a  fun first printer project.
 
 ![image](https://github.com/user-attachments/assets/201bc916-6a51-45df-82e9-28e341c0a06e)
 
+
+![image](https://github.com/user-attachments/assets/0518c702-6f20-44b7-a7df-6462821d38e4)
+
+
+![image](https://github.com/user-attachments/assets/d5065f54-1f43-4238-b2ff-08a1312c72dc)
+
+
 # BOM
 
 |Bill of Materials| | |
