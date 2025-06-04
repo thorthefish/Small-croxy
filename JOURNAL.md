@@ -5,7 +5,7 @@ Description: A high speed, small form factor, crossed gantry 3d printer on a mos
 
 Created: 6-2-2025
 
-TOTAL TIME SO FAR : 14 hours
+TOTAL TIME SO FAR : 17 hours
 
 6-2-2025
 
@@ -26,7 +26,7 @@ Project pitched in slack, so maybe i can get stuff ordered this week
 
 6-4-2025
 
-2 hours
+5 hours
 
 Polished CAD, got some final parts modeled.
 
