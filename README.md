@@ -34,24 +34,22 @@ Also I just wanted a  fun first printer project.
 |m3 x 15mm(chop down 20mm)	| $7.00	|https://www.amazon.com/Socket-Screw-Thread-stainless-100pcs/dp/B078CXM81F?|crid=SVZ6ZVO9CH88&dib=eyJ2IjoiMSJ9.q6E9NIbUqM2ZUEv1RWL1WRtvKj3SNLDo2R1ZT8rj0JjJymfK7DlziPyPhQ9RmYXqtFsmmF5RfL8V4i02E_YMdOe8PfafsIYf-f2_rEaEErhMN4e815gjUTRqY2QU83KdpUdh8nADbf6dZQZNQqsK2pDqByec_Kuya0WOqCijrjozfrKOcGIRmeSK5eXGzWMCCAY-3pPW9X5ySbmHxO28B7zKEQrdl4dj_4N4csIqrsQ.U1aUu0Slo90zMGR9u3oTCXOrKLJl8OYB_KGRmXcT-MM&dib_tag=se&keywords=m3%2B20mm&qid=1749000859&sprefix=m3%2B20mm%2Caps%2C140&sr=8-3&th=1|
 |Heatset Inserts	| $8.00	|https://www.aliexpress.us/item/2255800046543591.html?aff_fcid=b276c905df0d4e15bdf68bb6aa0dd61b-1749004809574-03378-_DkeMr5Z&tt=CPS_NORMAL&aff_fsk=_DkeMr5Z&aff_platform=shareComponent-detail&sk=_DkeMr5Z&aff_trace_key=b276c905df0d4e15bdf68bb6aa0dd61b-1749004809574-03378-_DkeMr5Z&terminal_id=ffcf64e248684970b8fdbe380ac19e19&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt|
 |bearings 5x14	| $8.00	|https://www.amazon.com/HiPicco-605-2RS-Bearings-Miniature-Pre-Lubricated/dp/B0CH2X65Y6?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A8J8GEQFEWSTZ&gQT=1&th=1|
-		
-		
+||||	
 |Extruder + Hotend| | |
-|-----------------|-|-|
+||||
 |Trianglelab v6 all metal hotend	| $15.00	|https://trianglelab.net/products/v6-all-metal-hotend?VariantsId=10012|
 |BMG clone cxtruder	| $6.00	|https://www.aliexpress.us/item/3256805805447850.html?spm=a2g0o.productlist.main.7.3ce93ae14ou9FX&algo_pvid=d5674794-46ca-47b3-b12f-8cb1f652468e&algo_exp_id=d5674794-46ca-47b3-b12f-8cb1f652468e-6&pdp_ext_f=%7B%22order%22%3A%22127%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%215.91%215.71%21%21%2142.37%2140.94%21%40210337bc17490034624662927e7119%2112000035210668495%21sea%21US%210%21ABX&curPageLogUid=Q1lIWxmGTDVg&utparam-url=scene%3Asearch%7Cquery_from%3A|
 |Pankake stepper for extruder	| $5.00	|https://www.omc-stepperonline.com/e-series-nema-17-bipolar-1-8deg-17ncm-24-07oz-in-1a-42x42x23mm-4-wires-17he08-1004s|
 |PTFE tube	| $2.00	|https://www.aliexpress.us/item/3256801260455800.html?aff_fcid=97c620ad2f4e44be9e412feb78f18f93-1749004715048-07628-_DFB3fCX&tt=CPS_NORMAL&aff_fsk=_DFB3fCX&aff_platform=shareComponent-detail&sk=_DFB3fCX&aff_trace_key=97c620ad2f4e44be9e412feb78f18f93-1749004715048-07628-_DFB3fCX&terminal_id=ffcf64e248684970b8fdbe380ac19e19&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt|
-		
-		
+||||	
 |BED| | |
-|---|-|-|
+||||
 |Buildplate	| $16.00	|https://www.aliexpress.us/item/3256808481230553.html?src=google&pdp_npi=4%40dis%21USD%2110.46%2110.46%21%21%21%21%21%40%2112000046161234568%21ppc%21%21%21&gPromoCode=5000000169902232&gQT=1&gatewayAdapt=glo2usa#nav-specification|
 |100 x 100mm Heater	| $11.00	|https://s.click.aliexpress.com/e/_DdKRBD1|
 |Bed Springs and M3 Bolts	| $4.00	|https://s.click.aliexpress.com/e/_DFBWBZP|
-		
+||||		
 |Electronics| | |
-|-----------|-|-|
+||||
 |Power supply - Mean Well |	$29	|https://www.digikey.com/en/products/detail/mean-well-usa-inc/LRS-150-24/7705015|
 |klipper laptop (instead of pi)	| freeeeee	|old vaio|
 |btt spyder	| $40	|https://www.aliexpress.us/item/3256802425339653.html?gatewayAdapt=glo2usa4itemAdapt|
