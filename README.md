@@ -8,3 +8,9 @@ I decided to build and design this particular project because of the hypercube o
 
 Also I just wanted a  fun first printer project.
 
+# CAD
+
+file:///home/phish/Pictures/Screenshots/Screenshot_20250604_130735.png
+
+
+
