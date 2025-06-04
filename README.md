@@ -59,6 +59,6 @@ Also I just wanted a  fun first printer project.
 |5015 fans	| $8	|https://www.aliexpress.us/item/3256804896091521.html?spm=a2g0o.productlist.main.5.24292dfdyUQBOp&algo_pvid=8f5fd244-3051-47f3-8ee1-9b274c699314&algo_exp_id=8f5fd244-3051-47f3-8ee1-9b274c699314-4&pdp_ext_f=%7B%22order%22%3A%22115%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%215.03%214.13%21%21%215.03%214.13%21%40210318c317490019106188148e39e0%2112000031576133991%21sea%21US%210%21ABX&curPageLogUid=lK1PGSptyFsF&utparam-url=scene%3Asearch%7Cquery_from%3A|
 |limit switches	| $3	|https://www.aliexpress.us/item/3256801412797483.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.7281EN7iEN7iEw&gps-id=pcDetailTopMoreOtherSeller&scm=1007.14452.396806.0&scm_id=1007.14452.396806.0&scm-url=1007.14452.396806.0&pvid=b97728e4-87ac-45ef-88c4-bf1cdbf0d7cc&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.14452.396806.0,pvid:b97728e4-87ac-45ef-88c4-bf1cdbf0d7cc,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22441%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%7D&pdp_npi=4%40dis%21USD%212.93%212.55%21%21%212.93%212.55%21%402101c5ac17490034128137397e69ea%2112000047027348662%21rec%21US%21%21ABXZ&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A&search_p4p_id=202506031916528631335802323094798288_0|
 |------------------|-|-|
-|TOTAL USD	$342.00|	
+|TOTAL USD	| $342.00| |
 
 
