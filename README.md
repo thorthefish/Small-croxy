@@ -28,7 +28,7 @@ Also I just wanted a  fun first printer project.
 		
 		
 |Hardware| | |	
-
+|--------|-|-|
 |m3 x 20mm	| $7.00	|https://www.amazon.com/Socket-Screw-Thread-stainless-100pcs/dp/B078CXM81F?crid=SVZ6ZVO9CH88&dib=eyJ2IjoiMSJ9.q6E9NIbUqM2ZUEv1RWL1WRtvKj3SNLDo2R1ZT8rj0JjJymfK7DlziPyPhQ9RmYXqtFsmmF5RfL8V4i02E_YMdOe8PfafsIYf-f2_rEaEErhMN4e815gjUTRqY2QU83KdpUdh8nADbf6dZQZNQqsK2pDqByec_Kuya0WOqCijrjozfrKOcGIRmeSK5eXGzWMCCAY-3pPW9X5ySbmHxO28B7zKEQrdl4dj_4N4csIqrsQ.U1aUu0Slo90zMGR9u3oTCXOrKLJl8OYB_KGRmXcT-MM&dib_tag=se&keywords=m3%2B20mm&qid=1749000859&sprefix=m3%2B20mm%2Caps%2C140&sr=8-3&th=1|
 |m3 x 30mm + Nuts and Washers	| $9.00	|https://www.amazon.com/Bemaka-550PCS-Washers-Assortment-Stainless/dp/B0D5CSSYGH?crid=S58YKB8LL37P&dib=eyJ2IjoiMSJ9.ZKNbl2CPI2XDQY9Ibd_7LZmvYFcoQXlVfWOB0m5eTD-_wRMsi7I54oWgMg5hld89O7g4XlfLEG_0d_3-YdgNx8etwGZaQzn7JoEeeUbCqAtzdG91wov3J04QlE3UJPb6wiC_iXU8IPN_eCq18U1llZY_RfoE9-M0ZFaMmbisvw45dQ53Qy-UCH-TH--UDKfqZZHnBy1fOIJFL5Rh4S1HV--cY4l6u8t1esgMvZALkuI.61Co7bKb9cPZ_CJNxUDbKlNWgyFjVWlhQs5Hqee0XM8&dib_tag=se&keywords=m3%2B30mm&qid=1749001163&sprefix=m3%2B30mm%2Caps%2C181&sr=8-23&th=1
 |m3 x 15mm(chop down 20mm)	| $7.00	|https://www.amazon.com/Socket-Screw-Thread-stainless-100pcs/dp/B078CXM81F?|crid=SVZ6ZVO9CH88&dib=eyJ2IjoiMSJ9.q6E9NIbUqM2ZUEv1RWL1WRtvKj3SNLDo2R1ZT8rj0JjJymfK7DlziPyPhQ9RmYXqtFsmmF5RfL8V4i02E_YMdOe8PfafsIYf-f2_rEaEErhMN4e815gjUTRqY2QU83KdpUdh8nADbf6dZQZNQqsK2pDqByec_Kuya0WOqCijrjozfrKOcGIRmeSK5eXGzWMCCAY-3pPW9X5ySbmHxO28B7zKEQrdl4dj_4N4csIqrsQ.U1aUu0Slo90zMGR9u3oTCXOrKLJl8OYB_KGRmXcT-MM&dib_tag=se&keywords=m3%2B20mm&qid=1749000859&sprefix=m3%2B20mm%2Caps%2C140&sr=8-3&th=1|
@@ -37,7 +37,7 @@ Also I just wanted a  fun first printer project.
 		
 		
 |Extruder + Hotend| | |
-
+|-----------------|-|-|
 |Trianglelab v6 all metal hotend	| $15.00	|https://trianglelab.net/products/v6-all-metal-hotend?VariantsId=10012|
 |BMG clone cxtruder	| $6.00	|https://www.aliexpress.us/item/3256805805447850.html?spm=a2g0o.productlist.main.7.3ce93ae14ou9FX&algo_pvid=d5674794-46ca-47b3-b12f-8cb1f652468e&algo_exp_id=d5674794-46ca-47b3-b12f-8cb1f652468e-6&pdp_ext_f=%7B%22order%22%3A%22127%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%215.91%215.71%21%21%2142.37%2140.94%21%40210337bc17490034624662927e7119%2112000035210668495%21sea%21US%210%21ABX&curPageLogUid=Q1lIWxmGTDVg&utparam-url=scene%3Asearch%7Cquery_from%3A|
 |Pankake stepper for extruder	| $5.00	|https://www.omc-stepperonline.com/e-series-nema-17-bipolar-1-8deg-17ncm-24-07oz-in-1a-42x42x23mm-4-wires-17he08-1004s|
@@ -45,13 +45,13 @@ Also I just wanted a  fun first printer project.
 		
 		
 |BED| | |
-
+|---|-|-|
 |Buildplate	| $16.00	|https://www.aliexpress.us/item/3256808481230553.html?src=google&pdp_npi=4%40dis%21USD%2110.46%2110.46%21%21%21%21%21%40%2112000046161234568%21ppc%21%21%21&gPromoCode=5000000169902232&gQT=1&gatewayAdapt=glo2usa#nav-specification|
 |100 x 100mm Heater	| $11.00	|https://s.click.aliexpress.com/e/_DdKRBD1|
 |Bed Springs and M3 Bolts	| $4.00	|https://s.click.aliexpress.com/e/_DFBWBZP|
 		
 |Electronics| | |
-
+|-----------|-|-|
 |Power supply - Mean Well |	$29	|https://www.digikey.com/en/products/detail/mean-well-usa-inc/LRS-150-24/7705015|
 |klipper laptop (instead of pi)	| freeeeee	|old vaio|
 |btt spyder	| $40	|https://www.aliexpress.us/item/3256802425339653.html?gatewayAdapt=glo2usa4itemAdapt|
