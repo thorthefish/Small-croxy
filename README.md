@@ -14,8 +14,11 @@ Also I just wanted a  fun first printer project.
 
 # BOM
 
+|Bill of Materials| | |
+|---------------------------|-|-|
+||||
 |Motion| | |
-|------|-|-|
+||||
 |GT2 6mm wide Belt 4 meters	| free |	Use old stuff i have|
 |4 - 20 Tooth 5mm Bore Pulley |	$7.00	|https://s.click.aliexpress.com/e/_DmbhjDN|
 |4 - 20 Tooth 5mm Bore idler |	free	| 3dp |
@@ -25,10 +28,9 @@ Also I just wanted a  fun first printer project.
 |Lead Screw 8 mm lead 200mm	| $6.00	|https://www.aliexpress.us/item/3256803126209223.html?aff_fcid=876c1b6831b34ef086b03f7f31695c39-1748987470418-07548-_DEBYMsL&tt=CPS_NORMAL&aff_fsk=_DEBYMsL&aff_platform=shareComponent-detail&sk=_DEBYMsL&aff_trace_key=876c1b6831b34ef086b03f7f31695c39-1748987470418-07548-_DEBYMsL&terminal_id=ffcf64e248684970b8fdbe380ac19e19&afSmartRedirect=y&gatewayAdapt=glo2usa4itemAdapt|
 |Linear Bearings (igus design)	| $8.00	|https://www.aliexpress.us/item/3256806998378536.html?pdp_npi=4%40dis%21USD%21US%20%243.70%21US%20%243.50%21%21%2126.52%2125.09%21%402103209b17489885608175906e642d%2112000039733031325%21sh%21US%210%21X&spm=a2g0o.store_pc_allItems_or_groupList.new_all_items_2008152185346.1005007184693288&gatewayAdapt=glo2usa|
 |Lead screw to stepper addapter|	free	| 3dp |
-		
-		
+||||	
 |Hardware| | |	
-|--------|-|-|
+||||
 |m3 x 20mm	| $7.00	|https://www.amazon.com/Socket-Screw-Thread-stainless-100pcs/dp/B078CXM81F?crid=SVZ6ZVO9CH88&dib=eyJ2IjoiMSJ9.q6E9NIbUqM2ZUEv1RWL1WRtvKj3SNLDo2R1ZT8rj0JjJymfK7DlziPyPhQ9RmYXqtFsmmF5RfL8V4i02E_YMdOe8PfafsIYf-f2_rEaEErhMN4e815gjUTRqY2QU83KdpUdh8nADbf6dZQZNQqsK2pDqByec_Kuya0WOqCijrjozfrKOcGIRmeSK5eXGzWMCCAY-3pPW9X5ySbmHxO28B7zKEQrdl4dj_4N4csIqrsQ.U1aUu0Slo90zMGR9u3oTCXOrKLJl8OYB_KGRmXcT-MM&dib_tag=se&keywords=m3%2B20mm&qid=1749000859&sprefix=m3%2B20mm%2Caps%2C140&sr=8-3&th=1|
 |m3 x 30mm + Nuts and Washers	| $9.00	|https://www.amazon.com/Bemaka-550PCS-Washers-Assortment-Stainless/dp/B0D5CSSYGH?crid=S58YKB8LL37P&dib=eyJ2IjoiMSJ9.ZKNbl2CPI2XDQY9Ibd_7LZmvYFcoQXlVfWOB0m5eTD-_wRMsi7I54oWgMg5hld89O7g4XlfLEG_0d_3-YdgNx8etwGZaQzn7JoEeeUbCqAtzdG91wov3J04QlE3UJPb6wiC_iXU8IPN_eCq18U1llZY_RfoE9-M0ZFaMmbisvw45dQ53Qy-UCH-TH--UDKfqZZHnBy1fOIJFL5Rh4S1HV--cY4l6u8t1esgMvZALkuI.61Co7bKb9cPZ_CJNxUDbKlNWgyFjVWlhQs5Hqee0XM8&dib_tag=se&keywords=m3%2B30mm&qid=1749001163&sprefix=m3%2B30mm%2Caps%2C181&sr=8-23&th=1
 |m3 x 15mm(chop down 20mm)	| $7.00	|https://www.amazon.com/Socket-Screw-Thread-stainless-100pcs/dp/B078CXM81F?|crid=SVZ6ZVO9CH88&dib=eyJ2IjoiMSJ9.q6E9NIbUqM2ZUEv1RWL1WRtvKj3SNLDo2R1ZT8rj0JjJymfK7DlziPyPhQ9RmYXqtFsmmF5RfL8V4i02E_YMdOe8PfafsIYf-f2_rEaEErhMN4e815gjUTRqY2QU83KdpUdh8nADbf6dZQZNQqsK2pDqByec_Kuya0WOqCijrjozfrKOcGIRmeSK5eXGzWMCCAY-3pPW9X5ySbmHxO28B7zKEQrdl4dj_4N4csIqrsQ.U1aUu0Slo90zMGR9u3oTCXOrKLJl8OYB_KGRmXcT-MM&dib_tag=se&keywords=m3%2B20mm&qid=1749000859&sprefix=m3%2B20mm%2Caps%2C140&sr=8-3&th=1|
