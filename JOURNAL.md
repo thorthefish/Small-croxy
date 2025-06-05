@@ -32,6 +32,8 @@ Polished CAD, got some final parts modeled.
 
 Finished up Github page. README is good and all requirements are met.
 
+Submitted, and waiting.
+
 
 
 
