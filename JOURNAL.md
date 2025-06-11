@@ -123,3 +123,11 @@ All of the parts will be printed in pla which is kinda trash for this but its th
 
 Also after putting some thought into how to mount the electonics... im gonna worry bout that later cause this cold has killed my abbility to cad pretty much. However, my plan is simply design a case for everything that will fit into the bottom cavity of the printer, and have an external mount for the PSU just to mount it on somthing that isnt PLA.
 
+
+# 6/11/2025 - 6 Hours
+
+## BOM
+
+I spent sooo long just searching voron, annex, and so many more BOMs. I was searching these for good references for the most important parts, such as a new controller board (BTT octopus or v1.2). then onve I had gotten those I just scoured ali for the beat possible performance and prices I could possibly find. I mannaged to avoid ~$100 in shipping just by using ali and amazon sources for steppers and rails.
+
+More on this tmrw but its 3 in the morning.
